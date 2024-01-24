@@ -1,7 +1,7 @@
 /venv/
 /.idea/
-.csv
-.pkl
+*.csv
+*.pkl
 *.txt
 !README.txt
 !requirements.txt
